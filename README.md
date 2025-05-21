@@ -1,4 +1,4 @@
-**NEW FLUTTER PROJECT**
+**NEW FLUTTER PROJECT**	
 This project creates a mobile application that interacts with a language model (GPT-2) through a Flask API. The Flutter frontend provides a user-friendly interface for sending prompts and displaying generated responses, while the Flask backend handles the AI model processing.
 
 
